@@ -1,3 +1,43 @@
+body {
+  margin: 0;
+}
+.header{
+  padding: 20px;
+  height: 50px;
+  background-color: lightgrey;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  word-spacing: 25px;
+}
+.hero {
+    padding: 50px 80px;
+    color: #777;
+    background-color: white;
+    text-align: center;
+    text-align: justify;
+}
+li {
+  display: inline;
+  float: none;
+  text-decoration: none;
+}
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+}
+.caption span.border {
+    padding: 18px;
+    color: #f7f7f7;
+    background-color: #4a4a4a;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
 .top-img, .middle-img, .bottom-img {
   position: relative;
 
@@ -14,7 +54,7 @@
 
 .middle-img {
   min-height: 100vh;
-  background-image: url("\wood1.jpg");
+  background-image: url("img/wood.jpg");
 }
 
 .bottom-img {
