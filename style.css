@@ -1,11 +1,6 @@
 body {
 margin: 0;
 }
-/*.header{
-  height: 100px;
-  background-color: white;
-  font-size: 20px;
-}*/
 .top-img, .middle-img {
   position: relative;
   background-repeat: no-repeat;
@@ -15,7 +10,7 @@ margin: 0;
 }
 
 .top-img{
-  min-height: 100vh;
+  min-height: 50vh;
   background-image: url("img/Tahoe.JPG");
 }
 .middle-img{
