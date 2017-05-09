@@ -1,6 +1,6 @@
 .top-img, .middle-img, .bottom-img {
   position: relative;
-  opacity: 0.65;
+  opacity: 1;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -19,5 +19,5 @@
 
 .bottom-img {
   min-height: 100vh;
-  background-image: url("\city.jpg");
+  background-image: url("sf.JPG");
 }
