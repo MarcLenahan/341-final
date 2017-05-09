@@ -6,3 +6,4 @@ For my second check-in I have took a deeper look into how i want the website to 
 
 ![start of html](img/Start.JPG)
 ![Moving along with some css](img/update-2.JPG)
+![here is a wirefram](img/Website Wirefram.JPG)
