@@ -4,5 +4,5 @@ My idea for my website is going to be a portfolio site for all my work. I think 
 ## UPDATE 2
 For my second check-in I have took a deeper look into how i want the website to look. For the wire frame at the time I did not have the images I wanted to use for the final site but the idea is there. Basically I have come down to make the site parallax and use anchor links for my links to go from different parts of the page to the next. I will most likely add to this towards the polished site and add gallery links and external links to other social media sites and what not.
 
-![start of html](/img/Start.jpg)
-![Moving along with some css](/img/update-2.jpg)
+![start of html](img/Start.JPG)
+![Moving along with some css](img/update-2.JPG)
