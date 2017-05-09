@@ -1,0 +1,13 @@
+.top-img {
+  position: relative;
+  opacity: 0.65;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.top-img {
+  min-height: 100vh;
+  background-image: url("img/top.JPG");
+}
