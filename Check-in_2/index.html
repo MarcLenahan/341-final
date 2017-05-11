@@ -11,11 +11,11 @@
   <body>
     <div class="header">
       <div class="container-head">
-        <div class="nav">
-          <ul>
-            <li><a href="#about_anchor">ABOUT</a></li>
-            <li><a href="#gallery_anchor">GALLERY</a></li>
-            <li><a href="#contact_anchor">CONTACT</a></li>
+        <div class="nav" style="text-decoration: none;">
+          <ul style="text-decoration: none;">
+            <li><a href="#about_anchor" style="color: inherit;">ABOUT</a></li>
+            <li><a href="#gallery_anchor" style="color: inherit;">GALLERY</a></li>
+            <li><a href="#contact_anchor" style="color: inherit;">CONTACT</a></li>
           </ul>
         </div>
       </div>
@@ -27,7 +27,7 @@
         <span class="border">Marc Lenahan</span>
       </div>
     </div>
-    <div  class="container1"><div id="about_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
+    <div  class="container"><div id="about_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
 
         <h3 id="about">ABOUT</h3>
     </div></div></div>
@@ -39,7 +39,7 @@
         <!--<span class="border">Marc Lenahan</span>-->
       </div>
     </div>
-    <div class="container1"><div id="gallery_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
+    <div class="container"><div id="gallery_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
         <h3 id="work">Gallery</h3>
     </div></div></div>
 
@@ -52,16 +52,62 @@
     </a>
     <div class="desc">Gallery</div>
   </div>
+  <div class="gallery">
+<a target="_blank" href="img/city.jpg">
+  <img src="img/city.jpg" alt="city" width="300" height="200">
+</a>
+<div class="desc">Gallery</div>
+</div>
+<div class="gallery">
+<a target="_blank" href="img/city.jpg">
+<img src="img/city.jpg" alt="city" width="300" height="200">
+</a>
+<div class="desc">Gallery</div>
+</div>
+<div class="gallery">
+<a target="_blank" href="img/city.jpg">
+<img src="img/city.jpg" alt="city" width="300" height="200">
+</a>
+<div class="desc">Gallery</div>
+</div>
+<div class="gallery">
+<a target="_blank" href="img/city.jpg">
+<img src="img/city.jpg" alt="city" width="300" height="200">
+</a>
+<div class="desc">Gallery</div>
+</div>
+<div class="gallery">
+<a target="_blank" href="img/city.jpg">
+<img src="img/city.jpg" alt="city" width="300" height="200">
+</a>
+<div class="desc">Gallery</div>
+</div>
       <div class="caption">
         <!--<span class="border">Marc Lenahan</span>-->
       </div>
     </div>
-    <div class="container1"><div id="contact_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
+    <div class="container"><div id="contact_anchor" style="padding-top: 5px; display: block;"> <div class="hero">
         <h3 id="contact">CONTACT</h3>
     </div></div></div>
 <!-- _______________________________________________________________________ -->
 
     <div class="footer-img">
+      <div class="container1">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
         <div class="caption">
           <!--<span class="border">Marc Lenahan</span>-->
         </div>
