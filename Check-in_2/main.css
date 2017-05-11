@@ -98,6 +98,7 @@ div.gallery {
     margin: 1px;
     border: 1px solid #ccc;
     float: left;
+    text-align: center;
     max-width: 320px;
 }
 
