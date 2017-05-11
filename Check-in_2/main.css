@@ -55,13 +55,31 @@ li {
     text-align: center;
     text-decoration: none;
 }
-
+.sike {
+  line-height: 1.25em;
+  position: absolute;
+  top: 25%;
+  left: 0;
+  width: 100%;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
 .caption span.border {
     padding: 18px;
     color: white;
     background-color: grey;
     opacity: .50;
     font-size: 50px;
+    letter-spacing: 10px;
+}
+.sike span.new {
+    padding: 15px
+    text-align: center;
+    color: white;
+    background-color: grey;
+    opacity: .95;
+    font-size: 20px;
     letter-spacing: 10px;
 }
 
@@ -97,9 +115,8 @@ li {
 div.gallery {
     margin: 1px;
     border: 1px solid #ccc;
-    float: left;
-    text-align: center;
     max-width: 320px;
+    float: left;
 }
 
 div.gallery:hover {
