@@ -169,7 +169,12 @@ input[type=submit]:hover {
 
     padding: 20px;
 }
-
+p {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  margin: 0;
+}
 @media (max-width: 320px;) {
 
 
