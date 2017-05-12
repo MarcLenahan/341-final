@@ -7,3 +7,6 @@ For my second check-in I have took a deeper look into how i want the website to 
 ![start of html](img/Start.JPG)
 ![Moving along with some css](img/update-2.JPG)
 ![here is a wireframe](img/website-wireframe.jpg)
+
+## FINAL UPDATE
+Wow! this has been one hell of a week. Over this last semester when completing our assignments it seemed like the collection of what we learned would make it easier at the end. Boy did I not know how much was going into this site. Most of the problems I had towards the end were mainly the little details that I wanted to make the site look good but it was worth it to get it working how I want. Over all when everything seemed to work out though I was very happy with everything. I will most likely use this final project as a template for other websites and improve as much as I possibly can with it. Hopefully in ten years it will still be functional.
